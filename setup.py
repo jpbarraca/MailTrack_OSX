@@ -101,12 +101,6 @@ setup(
                 # 10.9.4 release
                 'D1EFE124-86FF-4751-BF00-80B2C0D6F2E4',
             ],
-            # settings for Sparkle
-            SUFeedURL = 'https://raw.github.com/jpbarraca/mailtrackformac/master/updates/appcast.xml',
-            SUEnableAutomaticChecks = False,
-            SUShowReleaseNotes = True,
-            SUPublicDSAKeyFile = 'mailtrack.sparkle.pub.pem',
-            SUAllowsAutomaticUpdates = False,
         )
     ))
 )
